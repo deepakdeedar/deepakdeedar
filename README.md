@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, I'm Deepak Deedar Singla</h1>
 
 <!--
 **deepakdeedar/deepakdeedar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
