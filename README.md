@@ -2,6 +2,16 @@
 <h3 align='center'>Constant Learner</h3>
 <h4 align='center'><i>Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.</i><br> ― Antoine de Saint-Exupéry</h4>
 
+<br>
+<h5 align="center"><i>(Feel free to reach to me via any social-media platforms below if you want to have a talk)</i></h5>
+
+<p align='center'>
+  <a href="https://twitter.com/deepak_deedar"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/deepak-deedar-singla-0067811a0/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/deepakdeedar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/deepakdeedar"><img src="https://img.icons8.com/color/48/000000/telegram-app--v5.png" width="3.5%"/></a>
+</p>
+
 ---
 
 <img align="right" width='350' height='400' alt="GIF" src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/computer-programmer-organism-converting-caffeine-into-code-kanig-designs.jpg" />
@@ -10,7 +20,6 @@
 - 🔭 I’m currently working on Machine Learning, Deep Learning
 - 🌱 I’m currently learning Django and Flask
 - 👯 I’m looking to collaborate on various Projects
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Python 
 - 📫 How to reach me: ddeedar.cse18@chitkarauniversity.edu.in
 
@@ -20,8 +29,6 @@
 - <b>Covid-19 Tracker</b> -> Flutter
 - <b>JARVIS</b> -> Python
 - <b>The HAMS</b> -> JavaScript
-
-
 
 <br>
 
@@ -34,7 +41,8 @@
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png">&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/dart.svg">
 </p>
 
 #### Libraries/Frameworks
