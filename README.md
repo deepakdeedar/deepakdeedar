@@ -6,10 +6,10 @@
 <h5 align="center"><i>(Feel free to reach to me via any social-media platforms below if you want to have a talk)</i></h5>
 
 <p align='center'>
-  <a href="https://twitter.com/deepak_deedar"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/deepak-deedar-singla-0067811a0/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/deepakdeedar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/deepakdeedar"><img src="https://img.icons8.com/color/48/000000/telegram-app--v5.png" width="3.5%"/></a>
+  <a href="https://twitter.com/deepak_deedar"><img src="https://img.icons8.com/color/48/000000/twitter.png" height="30"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/deepak-deedar-singla-0067811a0/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" height="30"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/deepakdeedar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" height="30"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/deepakdeedar"><img src="https://img.icons8.com/color/48/000000/telegram-app--v5.png" height="30"/></a>
 </p>
 
 ---
@@ -54,6 +54,7 @@
 <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png">&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="30" src="https://icon2.cleanpng.com/20180802/iwp/kisspng-flask-by-example-python-web-framework-bottle-lico-softwares-websites-press-services-product-5b634c8e416770.5741331515332343182679.jpg">&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="30" src="https://icon-library.com/images/django-icon/django-icon-0.jpg">&nbsp;&nbsp;&nbsp;&nbsp;
+<img height='30' src='https://s2-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/710/500/original/rasa_logo_horizontal_purple.png?1561644488'>&nbsp;&nbsp;&nbsp;&nbsp;
 <img height='30' src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg">
 </p>
 
