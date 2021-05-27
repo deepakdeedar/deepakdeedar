@@ -26,7 +26,7 @@
 ### Recent Projects 🎉🎉
 - <b>Data Science World</b> -> Python and Flask
 - <b>Covid-19 Bot</b> -> Python and RASA
-- <b>Covid-19 Tracker</b> -> Flutter
+- <b>Covid-19 Tracker</b> -> Flutter and Public APIs
 - <b>JARVIS</b> -> Python
 - <b>The HAMS</b> -> JavaScript
 
