@@ -14,6 +14,10 @@
 
 ---
 
+  <img src="https://github-hero-readme.vercel.app/api?username=deepakdeedar&linkedin=deepakdeedarsingla&twitter=deepak_deedar&description=Python Developer | Web Developer" width="100%">
+
+---
+
 <img align="right" width='350' height='400' alt="GIF" src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/computer-programmer-organism-converting-caffeine-into-code-kanig-designs.jpg" />
 
 - 🎓 Pursuing B.Tech in Computer Science and Engineering
