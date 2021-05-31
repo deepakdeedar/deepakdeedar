@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, I'm Deepak Deedar Singla</h1>
 <h3 align='center'>Constant Learner</h3>
-<h4 align='center'><i>Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.</i><br> ― Antoine de Saint-Exupéry</h4>
+<h4 align='center'><i>"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."</i><br> ― Antoine de Saint-Exupéry</h4>
 
 <br>
 <h5 align="center"><i>(Feel free to reach to me via any social-media platforms below if you want to have a talk)</i></h5>
